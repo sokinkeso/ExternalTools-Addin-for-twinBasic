@@ -47,7 +47,7 @@ When adding or editing a tool, have in mind that:
    You have to click the [Update] button , so any changes will be made permanent, and available next time the addin loads.
 
 
-** The "Other tools" tab is disabled in this release **
+** The "Other Settings" tab is disabled in this release **
 
 
 > [!IMPORTANT]  
